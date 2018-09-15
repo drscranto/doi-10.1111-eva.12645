@@ -11,14 +11,7 @@ Original data and files found at https://datadryad.org/resource/doi:10.5061/drya
 ## Data	file
 
 Alewife_Spawning_Data
-Description:	Spawning	dates	for	young-of-the-year	alewife	in 5	lakes	in	CT	(two	anadromous	and	three	landlocked). 
-Variables measured:
-Lake	=	spawning	lake
-Form	=	life	history	form,	anadromous	(A)	or	landlocked	(L)
-Day	=	Julian	Date
-Count	=	number	of	young-of-the-year	alewife	laid	as	eggs	on	that	date (spawning)
-Temp	=	lake	temp	(°C),	average	of the	first	three	meters	of	the	epilimnion at	the	
-deepest	part	of	the	lake
+Description:	Spawning	dates	for	young-of-the-year	alewife	in 5	lakes	in	CT	(two	anadromous	and	three	landlocked). Variables measured: Lake	=	spawning	lake; Form	=	life	history	form,	anadromous	(A)	or	landlocked	(L); Day	=	Julian	Date; Count	=	number	of	young-of-the-year	alewife	laid	as	eggs	on	that	date (spawning); Temp	=	lake	temp	(°C),	average	of the	first	three	meters	of	the	epilimnion at	the	 deepest	part	of	the	lake
 
 ## Analysis file
 
