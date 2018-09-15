@@ -11,7 +11,8 @@ Original data and files found at https://datadryad.org/resource/doi:10.5061/drya
 ## Data	file
 
 Alewife_Spawning_Data
-Description:	Spawning	dates	for	young-of-the-year	alewife	in 5	lakes	in	CT	(two	anadromous	and	three	landlocked). Variables measured:
+Description:	Spawning	dates	for	young-of-the-year	alewife	in 5	lakes	in	CT	(two	anadromous	and	three	landlocked). 
+Variables measured:
 Lake	=	spawning	lake
 Form	=	life	history	form,	anadromous	(A)	or	landlocked	(L)
 Day	=	Julian	Date
@@ -22,8 +23,6 @@ deepest	part	of	the	lake
 ## Analysis file
 
 Analysis_Spawning.R
-Reads	the	local	file	“Alewife_Spawning_Data.csv”	and	maximizes	likelihoods	for	suite	
-of	time-to-event	models	with	explanatory	variables:	Form,	Lake,	and	Year	using	
-source	code	from	“TimeToEvent_Lik.R”.	Calculates	AIC	values.
+Reads	the	local	file	“Alewife_Spawning_Data.csv”	and	maximizes	likelihoods	for	suite	 of	time-to-event	models	with	explanatory	variables:	Form,	Lake,	and	Year	using	 source	code	from	“TimeToEvent_Lik.R”.	Calculates	AIC	values.
 
 
